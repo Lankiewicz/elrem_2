@@ -1,0 +1,256 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1154px;
+}
+
+.u-section-1 .u-text-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 85px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  width: 889px;
+  line-height: 1.6;
+  font-weight: 500;
+  margin: 32px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 370px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  margin: 32px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 370px;
+  background-image: url("images/DALLE2024-03-1209.10.33-Createarealisticimageofanelectrictrainstandingatarailwaystation.Thetrainshouldbedepictedingreatdetailshowcasingitsmoderndesig.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 409px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 0 32px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  margin: 32px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 370px;
+  background-image: url("images/DALLE2024-03-0812.06.27-Createablackandwhiteimageoftrainsontracksfocusingonatimelessandclassicdepictionwithoutanytext.Theimageshouldcapturetheessenc.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-5 {
+  min-height: 370px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-8 {
+  font-weight: 700;
+  margin: 32px 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 370px;
+  background-image: url("images/DALLE2024-03-1209.10.55-Createablackandwhiteimageofatrainontrackscapturingaclose-updetailofthewheelsandmachinerytoshowcasetheintricacyandengineering.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 960px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 305px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 305px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 337px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 305px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 305px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 305px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 839px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 234px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 234px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 234px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2079px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 527px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 527px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 527px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1479px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 332px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 332px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 332px;
+  }
+}
